@@ -6,7 +6,7 @@ subtitle: He/Him
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>CDS 802</p>
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first year Computer Science PhD student in Boston University. I am advised by <a href="https://www.bu.edu/cs/profiles/vkola/"> Dr. Vijaya Kolachalama </a>.
 
-I mostly spend my time designing and developing machine learning and deep learning models to aid biomedical applications. I am interested in the interactions and commonalities of biological and artificial neural computations. My work is motivated by the remarkable ability of neural networks (biological and artificial) to learn and support complex, emergent computations. 
+I mostly spend my time designing and developing machine learning and deep learning models to aid biomedical applications. My research interests fall under the umbrella of probabilistic graphical models, computer vision. I am interested in building applications at the intersection of AI and medicine through interpretable and trustworthy machine learning models.
 
 I also enjoy playing football (soccer for Americans) and FIFA.
 
