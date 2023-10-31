@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Vision
+description: Quantitative characterisation of hyperspectral images
+img: assets/img/Raman.jpg
+redirect: https://github.com/SubhrangshuBit/hyperspectral-image-quantification/blob/main/Presentation.pdf
 importance: 3
 category: fun
 ---

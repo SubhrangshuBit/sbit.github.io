@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Statistics
+description: Study of Bayesian & Maximum Likelihood Estimators
+img: assets/img/BayesVSMLE.jpg
+importance: 3
 category: work
+redirect: https://github.com/SubhrangshuBit/Bayesian-Estimtors-Vs-MLE/blob/main/Bayes_vs_MLE.pdf
 giscus_comments: true
 ---
 

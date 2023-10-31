@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: He/Him
+subtitle: I go by - <b>Subh</b>
 
 profile:
   align: right
@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first year Computer Science PhD student in Boston University. I am advised by <a href="https://www.bu.edu/cs/profiles/vkola/"> Dr. Vijaya Kolachalama </a>.
+I am a first year Computer Science PhD student in Boston University. I am advised by <a href="https://vkola-lab.github.io/team/"> Dr. Vijaya Kolachalama </a>.
 
-I mostly spend my time designing and developing machine learning and deep learning models to aid biomedical applications. My research interests fall under the umbrella of probabilistic graphical models, computer vision. I am interested in building applications at the intersection of AI and medicine through interpretable and trustworthy machine learning models.
+I mostly spend my time designing and developing machine learning and deep learning models to aid biomedical applications. My research interests fall under the umbrella of representation learning. I am interested in building applications at the intersection of AI and medicine through interpretable and trustworthy machine learning models.
 
 I also enjoy playing football (soccer for Americans) and FIFA.
 

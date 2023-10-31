@@ -1,69 +1,100 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Subhrangshu Bit",
+    "position": "CS PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sbit@bu.edu",
+    "phone": "",
+    "url": "https://subhrangshubit.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "CDS 802, 665 Commonwealth Avenue",
+      "postalCode": "MA 02215",
+      "city": "Boston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusettes"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "s-bit",
+        "url": "https://www.linkedin.com/in/s-bit/"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Boston University, Boston, US",
+      "url": "https://www.bu.edu/cs/",
+      "area": "Computer Science",
+      "studyType": "Ph.D. in Computer Science",
+      "startDate": "2023-09-03",
+      "endDate": "",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Advanced Optimization Algorithms",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "institution": "RKMVERI, Kolkata, India",
+      "url": "https://cs.rkmvu.ac.in",
+      "area": "Computer Science",
+      "studyType": "M.Sc. in Computer Science",
+      "startDate": "2019-07-01",
+      "endDate": "2021-08-03",
+      "score": "",
+      "courses": [
+        "Advanced Machine Learning",
+        "Artificial Intelligence",
+        "Optimization Techniques"
+      ]
+    },
+    {
+      "institution": "St. Xavier's College, Kolkata, India",
+      "url": "https://sxccal.edu/department-of-statistics",
+      "area": "Statistics",
+      "studyType": "B.Sc. in Statistics",
+      "startDate": "2016-07-01",
+      "endDate": "2019-06-01",
+      "score": "",
+      "courses": [
+        "Linear Statistical Models and Time Series",
+        "Statistical Inference",
+        "Sampling Distributions"
       ]
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Dr. Reddy's Laboratories",
+      "position": "Data Scientist",
+      "url": "https://www.drreddys.com",
+      "startDate": "2022-04-10",
+      "endDate": "2023-07-21",
+      "summary": "",
+      "highlights": [
+        "CIO Special Award"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "AI/ML Engineer",
+      "url": "https://www.tcs.com",
+      "startDate": "2021-07-01",
+      "endDate": "2022-04-08",
+      "summary": "",
+      "highlights": []
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker"
     },
     {

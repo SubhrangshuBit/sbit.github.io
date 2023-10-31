@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: time series
+description: Zero-inflated time series modelling
+img: assets/img/TimeSeries.jpg
+redirect: https://github.com/SubhrangshuBit/zero-inflated-time-series/blob/main/ProjectReport.pdf
+importance: 2
 category: work
 ---
 
