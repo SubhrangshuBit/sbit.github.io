@@ -5,7 +5,7 @@ description: Zero-inflated time series modelling
 img: assets/img/TimeSeries.jpg
 redirect: https://github.com/SubhrangshuBit/zero-inflated-time-series/blob/main/ProjectReport.pdf
 importance: 2
-category: work
+category: course
 ---
 
 Every project has a beautiful feature showcase page.

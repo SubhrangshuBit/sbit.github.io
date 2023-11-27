@@ -4,7 +4,7 @@ title: Statistics
 description: Study of Bayesian & Maximum Likelihood Estimators
 img: assets/img/BayesVSMLE.jpg
 importance: 3
-category: work
+category: course
 redirect: https://github.com/SubhrangshuBit/Bayesian-Estimtors-Vs-MLE/blob/main/Bayes_vs_MLE.pdf
 giscus_comments: true
 ---

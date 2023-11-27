@@ -4,7 +4,7 @@ title: Optimization
 description: Implementation of improved second order optimization techniques
 img: assets/img/Rosenbrock.png
 importance: 1
-category: work
+category: course
 redirect: https://github.com/SubhrangshuBit/Optimization---Conjugate-Gradient-/blob/main/OptAlg-Final.pdf
 related_publications: #einstein1956investigations, einstein1950meaning
 ---
