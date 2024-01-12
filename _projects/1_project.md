@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimization
-description: Implementation of improved second order optimization techniques
+description: Implementation of improved 2-order optimization techniques
 img: assets/img/Rosenbrock.png
 importance: 1
 category: course

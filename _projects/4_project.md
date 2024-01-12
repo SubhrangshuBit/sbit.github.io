@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision
+title: Regression
 description: Quantitative characterisation of hyperspectral images
 img: assets/img/Raman.jpg
 redirect: https://github.com/SubhrangshuBit/hyperspectral-image-quantification/blob/main/Presentation.pdf

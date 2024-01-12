@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: I go by - <b>Subh</b>
 
 profile:
   align: right
-  image: profpic.png
+  image: bust.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>CDS 802</p>
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first year Computer Science PhD student in Boston University. I am advised by <a href="https://vkola-lab.github.io/team/"> Dr. Vijaya Kolachalama </a>.
+I am a first year Computer Science PhD student in Boston University. I am advised by <a href="https://vkola-lab.github.io/team/"> Dr. Vijaya Kolachalama</a>.
 
 I mostly spend my time designing and developing machine learning and deep learning models to aid biomedical applications. My research interests fall under the umbrella of representation learning, computer vision and explainable AI.
 

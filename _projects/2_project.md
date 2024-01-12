@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Statistics
+title: Likelihood
 description: Study of Bayesian & Maximum Likelihood Estimators
-img: assets/img/BayesVSMLE.jpg
+img: assets/img/BayesVSMLE.png
 importance: 3
 category: course
 redirect: https://github.com/SubhrangshuBit/Bayesian-Estimtors-Vs-MLE/blob/main/Bayes_vs_MLE.pdf
